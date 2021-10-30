@@ -14,3 +14,4 @@ console.log(Number.NaN)
 console.log(typeof NaN)
 const weir = 2 / undefined
 console.log(Number.isNaN(weir));
+
